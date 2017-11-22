@@ -1,6 +1,6 @@
 {
   "name": "navbar-native",
-  "version": "1.6.2",
+  "version": "1.6.1",
   "description": "a fully customizable navbar component for React-Native that works for both iOS and Android",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/redbaron76/navbar-native.git"
+    "url" : "https://github.com/Wooterz/navbar-native.git"
   },
   "keywords": [
     "react",
@@ -18,7 +18,8 @@
   "dependencies": {
     "react-native-keyboard-aware-scroll-view": "^0.2.1",
     "react-native-vector-icons": "~4.0.0",
-    "react-native-spinkit": "~1.0.1"
+    "react-native-spinkit": "~1.0.1",
+    "prop-types":"prop-types": "^15.5.7"
   },
   "author": "Fabio Fumis <f.fumis@gmail.com> (https://github.com/redbaron76)",
   "license": "MIT"
